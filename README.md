@@ -10,20 +10,17 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Harris' Cloud Journey
 
-[✍️ Introduce yourself]
+My name is Harris Kinyanjui. I live in Phoenix, AZ with my wife and a poodle named Sonny. I am a Desktop Administrator for a Pharmacy Benefit Management Company with offices throughout the US. 
 
-[✍️ Tell us why you started this challenge]
+I started this challenge to grow, practice, and refine my cloud skills. It will also keep me accountable, help me polish my online presence, and meet other like-minded folks who want to further their cloud careers. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
+At the end of this challenge I would like to have passed the AWS Solutions Architect Exam (began studying for it before I found this challenge), connect and network with the folks in this community, and hopefully be in a position to interview for a cloud-related role. 
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [Twitter](https://twitter.com/harristha1)
+- [LinkedIn](https://www.linkedin.com/in/harrysteve-kinyanjui-04115331/)
 
 ## Stepping out the door
 
